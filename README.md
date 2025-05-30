@@ -17,15 +17,6 @@ A minimal, theme-switching todo list with drag & drop
 
 ---
 
-
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/mebokvinikadze/react-todo.git
-cd react-todo
-npm install
-npm run dev
-
 ## Project Source
 src/
 ├── components/
@@ -37,3 +28,15 @@ src/
 ├── styles/
 │   └── global.css
 └── App.tsx
+
+---
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/mebokvinikadze/react-todo.git
+cd react-todo
+npm install
+npm run dev
+
+
