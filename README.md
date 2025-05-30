@@ -1,6 +1,7 @@
 # React todo application quiz from my university course
 
-![Demo](![image](https://github.com/user-attachments/assets/8f83e9cd-728e-4119-8ed0-5b24be976c6c))
+![Demo]![image](https://github.com/user-attachments/assets/48e636c5-d6de-4120-9b84-58fab452164c)
+
 
 A minimal, theme-switching todo list with drag & drop
 
