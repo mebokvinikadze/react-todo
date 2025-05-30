@@ -1,6 +1,6 @@
 # React todo application quiz from my university course
 
-![image]![image](https://github.com/user-attachments/assets/14d43a65-ce9e-49c2-98d5-8365f80a320b)
+![image](https://github.com/user-attachments/assets/14d43a65-ce9e-49c2-98d5-8365f80a320b)
 
 
 
