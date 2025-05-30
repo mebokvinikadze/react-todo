@@ -18,6 +18,7 @@ A minimal, theme-switching todo list with drag & drop
 ---
 
 ## Project Source
+```bash
 src/
 ├── components/
 │   ├── TaskItem.tsx
