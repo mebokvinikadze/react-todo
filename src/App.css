@@ -1,0 +1,18 @@
+.image-container {
+  height: 17.7rem;
+  width: 100%;
+}
+
+html.dark .image-container {
+  background: url("/assets/images/bg-desktop-dark.webp") center top/cover
+    no-repeat;
+}
+
+html .image-container {
+  background: url("/assets/images/bg-desktop-light.webp") center top/cover
+    no-repeat;
+}
+
+body * {
+  @apply transition-colors duration-200;
+}
