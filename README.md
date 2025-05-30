@@ -29,6 +29,7 @@ src/
 ├── styles/
 │   └── global.css
 └── App.tsx
+```
 
 ---
 
@@ -39,5 +40,6 @@ git clone https://github.com/mebokvinikadze/react-todo.git
 cd react-todo
 npm install
 npm run dev
+```
 
 
